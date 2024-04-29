@@ -1,0 +1,463 @@
+.m1{
+    left: 40px;
+    font-size: 30px;
+    position: relative;
+    top: 200px;
+}
+.m2{
+    left: 40px;
+    top:  0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    position: relative;
+}
+.buttonb1 {
+    border-radius: 4px;
+    background: linear-gradient(to right, #e91e63, #2196f3);
+    border: none;
+    color: black;
+    font-size: 20px;
+    height: 30px;
+    width: 120px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    position: relative;
+    top: 550px;
+    left: 450px;
+  }
+  
+  .buttonb1 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .buttonb1 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .buttonb1:hover span {
+    padding-right: 25px;
+  }
+  
+  .buttonb1:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+.x1{
+    width: 75%;
+    height: 80%;
+    background-color: #2a2b38;
+    background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/pat.svg');
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: 300%;
+    position: absolute;
+    border-radius: 6px;
+    left: 100px;
+    top: 350px;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -o-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.x2{
+    top: 170px;
+    position: relative;
+    left: 560px;
+    font-size: 40px;
+}
+.x3{
+    top: 170px;
+    position: relative;
+    left: 380px;
+}
+.x4{
+    top: 170px;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 330px;
+}
+.x5{
+    top: 190px;
+    position: relative;
+    left: 100px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.x6{
+    top: 190px;
+    position: relative;
+    left: 130px;
+}
+.m3{
+    top: 190px;
+    position: relative;
+    left: 175px;
+}
+.x7{
+    top: 110px;
+    position: relative;
+    left: 375px;
+}
+.m4{
+    top: 110px;
+    position: relative;
+    left: 425px;
+}
+.m5{
+    top: 110px;
+    position: relative;
+    left: 425px;
+}
+.x8{
+    top: -07px;
+    position: relative;
+    left: 600px;
+}
+.m6{
+    top: -09px;
+    position: relative;
+    left: 650px;
+}
+.m7{
+    top: -09px;
+    position: relative;
+    left: 650px;
+}
+.x9{
+    top: -120px;
+    position: relative;
+    left: 880px;
+}
+.m8{
+    top: -120px;
+    position: relative;
+    left: 930px;
+}
+.m9{
+    top: -120px;
+    position: relative;
+    left: 930px;
+}
+.img{
+    background-image: url('./car.jpg');
+}
+.dia{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.z1{
+    width: 75%;
+    height: 80%;
+    background-color: #2a2b38;
+    background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/pat.svg');
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: 300%;
+    position: absolute;
+    border-radius: 6px;
+    left: 100px;
+    top: 1050px;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -o-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+
+.buttonb2 {
+    border-radius: 4px;
+    background: linear-gradient(to right, #e91e63, #2196f3);
+    border: none;
+    color: black;
+    font-size: 20px;
+    height: 30px;
+    width: 120px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    position: relative;
+    top: 550px;
+    left: 450px;
+}
+  .buttonb2 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .buttonb2 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .buttonb2:hover span {
+    padding-right: 25px;
+  }
+  
+  .buttonb2:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+.z2{
+    top: 110px;
+    position: relative;
+    left: 520px;
+    font-size: 30px;
+}
+.z3{
+    top: 110px;
+    position: relative;
+    left: 375px;
+}
+.z4{
+    top: 110px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 330px;
+}
+.z5{
+    top: 140px;
+    position: relative;
+    left: 100px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.z6{
+    top: 140px;
+    position: relative;
+    left: 130px;
+}
+.o3{
+    top: 140px;
+    position: relative;
+    left: 185px;
+}
+.z7{
+    top: 20px;
+    position: relative;
+    left: 380px;
+}
+.o4{
+    top: 20px;
+    position: relative;
+    left: 425px;
+}
+.o5{
+    top: 20px;
+    position: relative;
+    left: 425px;
+}
+.z8{
+    top: -100px;
+    position: relative;
+    left: 600px;
+}
+.o6{
+    top: -100px;
+    position: relative;
+    left: 645px;
+}
+.o7{
+    top: -100px;
+    position: relative;
+    left: 650px;
+}
+.z9{
+    top: -220px;
+    position: relative;
+    left: 880px;
+}
+.o8{
+    top: -220px;
+    position: relative;
+    left: 928px;
+}
+.o9{
+    top: -220px;
+    position: relative;
+    left: 930px;
+}
+.img{
+    background-image: url('./car1.jpg');
+}
+.dia1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.i1{
+    width: 75%;
+    height: 80%;
+    background-color: #2a2b38;
+    background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/pat.svg');
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: 300%;
+    position: absolute;
+    border-radius: 6px;
+    left: 100px;
+    top: 1750px;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -o-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.buttonb3 {
+    border-radius: 4px;
+    background: linear-gradient(to right, #e91e63, #2196f3);
+    border: none;
+    color: black;
+    font-size: 20px;
+    height: 30px;
+    width: 120px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    position: relative;
+    top: 550px;
+    left: 450px;
+  }
+  
+  .buttonb3 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .buttonb3 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .buttonb3:hover span {
+    padding-right: 25px;
+  }
+  
+  .buttonb3:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+.i2{
+    top: 50px;
+    position: relative;
+    left: 550px;
+    font-size: 30px;
+}
+.i3{
+    top: 50px;
+    position: relative;
+    left: 360px;
+}
+.i4{
+    top: 50px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 330px;
+}
+.i5{
+    top: 70px;
+    position: relative;
+    left: 100px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.i6{
+    top: 80px;
+    position: relative;
+    left: 150px;
+}
+.j3{
+    top: 80px;
+    position: relative;
+    left: 205px;
+}
+.i7{
+    top: 0px;
+    position: relative;
+    left: 380px;
+}
+.j4{
+    top: 0px;
+    position: relative;
+    left: 425px;
+}
+.j5{
+    top: 0px;
+    position: relative;
+    left: 425px;
+}
+.i8{
+    top: -115px;
+    position: relative;
+    left: 600px;
+}
+.j6{
+    top: -115px;
+    position: relative;
+    left: 645px;
+}
+.j7{
+    top: -115px;
+    position: relative;
+    left: 645px;
+}
+.i9{
+    top: -230px;
+    position: relative;
+    left: 880px;
+}
+.j8{
+    top: -230px;
+    position: relative;
+    left: 928px;
+}
+.j9{
+    top: -230px;
+    position: relative;
+    left: 930px;
+}
+.img{
+    background-image: url('./car.jpg');
+}
+.dia2{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.bs1{
+    background-color:white;
+    padding: 15px 20px;
+    border: none;
+    opacity: 0.9;
+    position: absolute;
+    width: 1900px;
+    height: 250px;
+    left: 0px;
+    top: 2600px;
+  }

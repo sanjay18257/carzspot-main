@@ -1,0 +1,329 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
+
+body{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.7;
+  color: #c4c3ca;
+  background: linear-gradient(to right, #2196f3, #e91e63);
+  overflow-x: hidden;
+} 
+.n1{
+  background-color: black;
+  padding: 15px 20px;
+  border: none;
+  opacity: 50%;
+  position: absolute;
+  width: 1900px;
+  height: 90px;
+  left: 0px;
+  top: 0px;
+}
+.n2{
+  background-color:black;
+  padding: 15px 20px;
+  border: none;
+  position: absolute;
+  width: 1900px;
+  height: 0px;
+  left: 0px;
+  top: 100px;
+}
+.c1{
+  background-color: transparent;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;      
+  border-radius: 15px 20px;
+  
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  left: 150px;
+  top: -10px;
+  text-align: center;
+}
+.c1:hover{
+  color: #e91e63;
+}
+.c2{
+  background-color: transparent;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;      
+  border-radius: 15px 20px;
+  
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  left: 270px;
+  top: -10px;
+  text-align: center;
+}
+.c2:hover{
+  color: #e91e63;
+}
+.c3{
+  background-color: transparent;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;      
+  border-radius: 15px 20px;
+  
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  left: 380px;
+  top: -10px;
+  text-align: center;
+}
+.c3:hover{
+  color: #e91e63;
+}
+.c4{
+  background-color: transparent;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;      
+  border-radius: 15px 20px;
+  
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  left: 490px;
+  top: -10px;
+  text-align: center;
+}
+.c4:hover{
+  color: #e91e63;
+}
+.c5{
+  background-color: transparent;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;      
+  border-radius: 15px 20px;
+  
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  left: 610px;
+  top: -10px;
+  text-align: center;
+}
+.c5:hover{
+  color: #e91e63;
+}
+.c6{
+  background-color: transparent;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;      
+  border-radius: 15px 20px;
+  
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  left: 730px;
+  top: -10px;
+  text-align: center;
+}
+.c6:hover{
+  color: #e91e63;
+}
+.c7{
+  background-color: transparent;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;      
+  border-radius: 15px 20px;
+  
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  left: 850px;
+  top: -10px;
+  text-align: center;
+}
+.c7:hover{
+  color: #e91e63;
+}
+.c8{
+  background-color: transparent;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;      
+  border-radius: 15px 20px;
+  
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  left: 970px;
+  top: -10px;
+  text-align: center;
+}
+.c8:hover{
+  color: #e91e63;
+}
+.c9{
+  background-color: transparent;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;      
+  border-radius: 15px 20px;
+  
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  left: 1090px;
+  top: -10px;
+  text-align: center;
+}
+.c9:hover{
+  color: #e91e63;
+}
+      .Loginf{
+        background-color: black;
+        color: white;
+        padding: 15px 20px;
+        border: none;
+        cursor: pointer;
+        opacity: 0.9;      
+        border-radius: 15px 20px;
+        border-style: solid;
+        border-color: black;
+        position: absolute;
+        width: 100px;
+        height: 50px;
+        left: 1250px;
+        top: -75px;
+        text-align: center;
+      }
+      .Loginf:hover{
+        background-color: black;
+        opacity: 1;
+      }
+      .signupf{
+        background-color: black;
+        color: white;
+        padding: 15px 20px;
+        border: none;
+        cursor: pointer;
+        opacity: 0.9;      
+        border-radius: 15px 20px;
+        border-style: solid;
+        border-color: black;
+        position: absolute;
+        width: 100px;
+        height: 50px;
+        left: 1400px;
+        top: -75px;
+        text-align: center;
+      }
+      .signupf:hover{
+        background-color: black;
+        opacity: 1;
+      }
+      .border{
+        width: 100px;
+        height: 300px;
+        left: 500px;
+        margin-top: 330px;
+        background-color: transparent;
+        
+    }
+    .border .info{
+        position: absolute;
+        color: white;
+        opacity: 0;
+        transform: translate(-50%);
+        transition: 0.5s;
+        white-space: nowrap;
+    }
+    
+    .border .info button{
+        width: 300px;
+        height: 300px;
+        border-radius: 10%;
+        background: black;
+        color: white;
+        overflow: hidden;
+        font-weight: bold;
+        cursor: pointer;
+        transition: 1s ease;
+    }
+    
+    .border img {
+        position: absolute;
+        height: 100px;
+        width: 100px;
+        margin-top: -0px;
+        bottom: 587px;
+        margin-left: 73px;
+    }
+    
+    .border:hover{
+        background-color: transparent;
+    }
+    .border:hover .info{
+        opacity: 1;
+        transform: translateZ(0px);
+    }
+    .border .info button:hover{
+        background-color: black;
+    }
+    .lb{
+      background-color: black;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;      
+    border-radius: 15px 20px;
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    width: 80px;
+    height:80px;
+    left: -20px;
+    top: -100px;
+    text-align: center;
+    }
+    .glow {
+      font-size: 80px;
+      color: white;
+      text-align: center;
+      animation: glow 1s ease-in-out infinite alternate;
+      margin-left: -400px;
+      margin-top: -40px;
+    }
+    
+    @-webkit-keyframes glow {
+      from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px red;
+      }
+      
+      to {
+        text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+      }
+    }
+    
